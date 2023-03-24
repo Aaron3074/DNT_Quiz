@@ -1,3 +1,5 @@
+# Unsure of code, got from a senior.
+
 import cv2
 
 cap = cv2.VideoCapture('input_video.mp4')
